@@ -1,0 +1,545 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - The Matrix site:www.imdb.com",
+                "totalResults": "279000",
+                "searchTerms": "The Matrix site:www.imdb.com",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "8757e8c3566874ad9"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - The Matrix site:www.imdb.com",
+                "totalResults": "279000",
+                "searchTerms": "The Matrix site:www.imdb.com",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "8757e8c3566874ad9"
+            }
+        ]
+    },
+    "context": {
+        "title": "actor image"
+    },
+    "searchInformation": {
+        "searchTime": 0.319778,
+        "formattedSearchTime": "0.32",
+        "totalResults": "279000",
+        "formattedTotalResults": "279,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix (1999) - IMDb",
+            "htmlTitle": "<b>The Matrix</b> (1999) - IMDb",
+            "link": "https://www.imdb.com/title/tt0133093/",
+            "displayLink": "www.imdb.com",
+            "snippet": "The Matrix: Directed by Lana Wachowski, Lilly Wachowski. With Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving. When a beautiful stranger ...",
+            "htmlSnippet": "<b>The Matrix</b>: Directed by Lana Wachowski, Lilly Wachowski. With Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving. When a beautiful stranger&nbsp;...",
+            "formattedUrl": "https://www.imdb.com/title/tt0133093/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt0133093/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuY_CZpT7VzUcDt8-0qyAYVfG5_awxNY3bmgdmhZ8ZsRamjzHp8LAJiJE&s",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix (1999) ⭐ 8.7 | Action, Sci-Fi",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "main",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix (1999) ⭐ 8.7 | Action, Sci-Fi",
+                        "imdb:pageconst": "tt0133093",
+                        "og:image:height": "1502.857142857143",
+                        "og:description": "2h 16m | R",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "49",
+                        "twitter:image:alt": "The Matrix: Directed by Lana Wachowski, Lilly Wachowski. With Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving. When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "2h 16m | R",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt0133093/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix Resurrections (2021) - IMDb",
+            "htmlTitle": "<b>The Matrix</b> Resurrections (2021) - IMDb",
+            "link": "https://www.imdb.com/title/tt10838180/",
+            "displayLink": "www.imdb.com",
+            "snippet": "The Matrix Resurrections: Directed by Lana Wachowski. With Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II, Jonathan Groff.",
+            "htmlSnippet": "<b>The Matrix</b> Resurrections: Directed by Lana Wachowski. With Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II, Jonathan Groff.",
+            "formattedUrl": "https://www.imdb.com/title/tt10838180/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt10838180/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dUp3KSf6NaUh2BLHP58Y_tsWt2E0TlR-KHLWEG7O7ci323L-YI9gz9Y&s",
+                        "width": "184",
+                        "height": "273"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix Resurrections (2021) ⭐ 5.6 | Action, Sci-Fi",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "main",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix Resurrections (2021) ⭐ 5.6 | Action, Sci-Fi",
+                        "imdb:pageconst": "tt10838180",
+                        "og:image:height": "1481.9102749638205",
+                        "og:description": "2h 28m | R",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "49",
+                        "twitter:image:alt": "The Matrix Resurrections: Directed by Lana Wachowski. With Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II, Jonathan Groff. Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "2h 28m | R",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt10838180/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix Reloaded (2003) - IMDb",
+            "htmlTitle": "<b>The Matrix</b> Reloaded (2003) - IMDb",
+            "link": "https://www.imdb.com/title/tt0234215/",
+            "displayLink": "www.imdb.com",
+            "snippet": "The Matrix Reloaded: Directed by Lana Wachowski, Lilly Wachowski. With Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu.",
+            "htmlSnippet": "<b>The Matrix</b> Reloaded: Directed by Lana Wachowski, Lilly Wachowski. With Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu.",
+            "formattedUrl": "https://www.imdb.com/title/tt0234215/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt0234215/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19KFesKzv2H6_D6s3pTqqaV9dqU6Qbct8lsP8_qMUVEQmj19iCQz7cGw&s",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix Reloaded (2003) ⭐ 7.2 | Action, Sci-Fi",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "main",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix Reloaded (2003) ⭐ 7.2 | Action, Sci-Fi",
+                        "imdb:pageconst": "tt0234215",
+                        "og:image:height": "1500",
+                        "og:description": "2h 18m | R",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "49",
+                        "twitter:image:alt": "The Matrix Reloaded: Directed by Lana Wachowski, Lilly Wachowski. With Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu. Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "2h 18m | R",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt0234215/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix Revolutions (2003) - IMDb",
+            "htmlTitle": "<b>The Matrix</b> Revolutions (2003) - IMDb",
+            "link": "https://www.imdb.com/title/tt0242653/",
+            "displayLink": "www.imdb.com",
+            "snippet": "The Matrix Revolutions: Directed by Lana Wachowski, Lilly Wachowski. With Mary Alice, Tanveer K. Atwal, Helmut Bakaitis, Kate Beahan. The human city of Zion ...",
+            "htmlSnippet": "<b>The Matrix</b> Revolutions: Directed by Lana Wachowski, Lilly Wachowski. With Mary Alice, Tanveer K. Atwal, Helmut Bakaitis, Kate Beahan. The human city of Zion&nbsp;...",
+            "formattedUrl": "https://www.imdb.com/title/tt0242653/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt0242653/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpb36VlSC5dVNdvt7k59pIw6AhNCUnYfixT0-dsOMTymWqBUnzEJjAZLQ&s",
+                        "width": "185",
+                        "height": "273"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix Revolutions (2003) ⭐ 6.7 | Action, Sci-Fi",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "main",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix Revolutions (2003) ⭐ 6.7 | Action, Sci-Fi",
+                        "imdb:pageconst": "tt0242653",
+                        "og:image:height": "1477.7272727272727",
+                        "og:description": "2h 9m | R",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "49",
+                        "twitter:image:alt": "The Matrix Revolutions: Directed by Lana Wachowski, Lilly Wachowski. With Mary Alice, Tanveer K. Atwal, Helmut Bakaitis, Kate Beahan. The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "2h 9m | R",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt0242653/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix Resurrections (2021) - User reviews - IMDb",
+            "htmlTitle": "<b>The Matrix</b> Resurrections (2021) - User reviews - IMDb",
+            "link": "https://www.imdb.com/title/tt10838180/reviews/",
+            "displayLink": "www.imdb.com",
+            "snippet": "Overall, it's an OK film. It's too different from the original. It lacks thought provoking. The action scenes feel flat. The characters don't do much. The ...",
+            "htmlSnippet": "Overall, it&#39;s an OK film. It&#39;s too different from the original. It lacks thought provoking. The action scenes feel flat. The characters don&#39;t do much. The&nbsp;...",
+            "formattedUrl": "https://www.imdb.com/title/tt10838180/reviews/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt10838180/reviews/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dUp3KSf6NaUh2BLHP58Y_tsWt2E0TlR-KHLWEG7O7ci323L-YI9gz9Y&s",
+                        "width": "184",
+                        "height": "273"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix Resurrections (2021) - User reviews - IMDb",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "reviews",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix Resurrections (2021) - User reviews - IMDb",
+                        "imdb:pageconst": "tt10838180",
+                        "og:image:height": "1481.9102749638205",
+                        "og:description": "The Matrix Resurrections (2021) - Movies, TV, Celebs, and more...",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "38",
+                        "twitter:image:alt": "The Matrix Resurrections (2021) - Movies, TV, Celebs, and more...",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "The Matrix Resurrections (2021) - Movies, TV, Celebs, and more...",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt10838180/reviews/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix Revolutions (2003) - User reviews - IMDb",
+            "htmlTitle": "<b>The Matrix</b> Revolutions (2003) - User reviews - IMDb",
+            "link": "https://www.imdb.com/title/tt0242653/reviews/",
+            "displayLink": "www.imdb.com",
+            "snippet": "The Matrix Revolutions is the much-anticipated conclusion to the Wachowski Brothers' cultic sci-fi trilogy.",
+            "htmlSnippet": "<b>The Matrix</b> Revolutions is the much-anticipated conclusion to the Wachowski Brothers&#39; cultic sci-fi trilogy.",
+            "formattedUrl": "https://www.imdb.com/title/tt0242653/reviews/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt0242653/reviews/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpb36VlSC5dVNdvt7k59pIw6AhNCUnYfixT0-dsOMTymWqBUnzEJjAZLQ&s",
+                        "width": "185",
+                        "height": "273"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix Revolutions (2003) - User reviews - IMDb",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "reviews",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix Revolutions (2003) - User reviews - IMDb",
+                        "imdb:pageconst": "tt0242653",
+                        "og:image:height": "1477.7272727272727",
+                        "og:description": "The Matrix Revolutions (2003) - Movies, TV, Celebs, and more...",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "38",
+                        "twitter:image:alt": "The Matrix Revolutions (2003) - Movies, TV, Celebs, and more...",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "The Matrix Revolutions (2003) - Movies, TV, Celebs, and more...",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt0242653/reviews/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix (film series)",
+            "htmlTitle": "<b>The Matrix</b> (film series)",
+            "link": "https://www.imdb.com/list/ls041070228/",
+            "displayLink": "www.imdb.com",
+            "snippet": "https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films 1. The Matrix (1999) 2. The Matrix Reloaded (2003) 3. The Matrix Revolutions (2003) Future: 4.",
+            "htmlSnippet": "https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films 1. <b>The Matrix</b> (1999) 2. <b>The Matrix</b> Reloaded (2003) 3. <b>The Matrix</b> Revolutions (2003) Future: 4.",
+            "formattedUrl": "https://www.imdb.com/list/ls041070228/",
+            "htmlFormattedUrl": "https://www.imdb.com/list/ls041070228/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSyYnD3ubHjvDgADMJvO_Zoho9hIZIlok-Z4vV8ADOiCVv9qsR_XUmRZuE&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png",
+                        "og:type": "website",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix (film series)",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "main",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix (film series)",
+                        "imdb:pageconst": "ls041070228",
+                        "og:image:height": "1000",
+                        "og:description": "https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films\n\n1. The Matrix (1999) 2. The Matrix Reloaded (2003) 3. The Matrix Revolutions (2003)\n\nFuture: 4. The Matrix Resurrections (2021)",
+                        "twitter:image": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png",
+                        "next-head-count": "36",
+                        "twitter:image:alt": "https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films\n\n1. The Matrix (1999) 2. The Matrix Reloaded (2003) 3. The Matrix Revolutions (2003)\n\nFuture: 4. The Matrix Resurrections (2021)",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films\n\n1. The Matrix (1999) 2. The Matrix Reloaded (2003) 3. The Matrix Revolutions (2003)\n\nFuture: 4. The Matrix Resurrections (2021)",
+                        "og:locale": "en_US",
+                        "imdb:pagetype": "list"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A Glitch in the Matrix (2021) - IMDb",
+            "htmlTitle": "A Glitch in <b>the Matrix</b> (2021) - IMDb",
+            "link": "https://www.imdb.com/title/tt9847360/",
+            "displayLink": "www.imdb.com",
+            "snippet": "A Glitch in the Matrix: Directed by Rodney Ascher. With Nick Bostrom, Joshua Cooke, Erik Davis, Philip K. Dick. Documentary filmmaker Rodney Ascher tackles ...",
+            "htmlSnippet": "A Glitch in <b>the Matrix</b>: Directed by Rodney Ascher. With Nick Bostrom, Joshua Cooke, Erik Davis, Philip K. Dick. Documentary filmmaker Rodney Ascher tackles&nbsp;...",
+            "formattedUrl": "https://www.imdb.com/title/tt9847360/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt9847360/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeJbyKC1yL_-Q6qxQcQgyqBaeiMrOvo7EsQ-eBJ4kZb5-K52GmzEdGnE&s",
+                        "width": "184",
+                        "height": "273"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BYmU0NzFhYmEtMmUzNC00MjQ1LTg3NTctZDdlZmVlY2MzMDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "A Glitch in the Matrix (2021) ⭐ 5.3 | Documentary",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "main",
+                        "og:site_name": "IMDb",
+                        "og:title": "A Glitch in the Matrix (2021) ⭐ 5.3 | Documentary",
+                        "imdb:pageconst": "tt9847360",
+                        "og:image:height": "1479.7687861271675",
+                        "og:description": "1h 48m | Not Rated",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BYmU0NzFhYmEtMmUzNC00MjQ1LTg3NTctZDdlZmVlY2MzMDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "49",
+                        "twitter:image:alt": "A Glitch in the Matrix: Directed by Rodney Ascher. With Nick Bostrom, Joshua Cooke, Erik Davis, Philip K. Dick. Documentary filmmaker Rodney Ascher tackles the question \"are we living in a simulation?\" with testimony, philosophical evidence and scientific explanation in his quest for the answer.",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "1h 48m | Not Rated",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt9847360/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BYmU0NzFhYmEtMmUzNC00MjQ1LTg3NTctZDdlZmVlY2MzMDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix (1999) - User reviews - IMDb",
+            "htmlTitle": "<b>The Matrix</b> (1999) - User reviews - IMDb",
+            "link": "https://www.imdb.com/title/tt0133093/reviews/",
+            "displayLink": "www.imdb.com",
+            "snippet": "The story of a reluctant Christ-like protagonist set against a baroque, MTV backdrop, The Matrix is the definitive hybrid of technical wizardry and contextual ...",
+            "htmlSnippet": "The story of a reluctant Christ-like protagonist set against a baroque, MTV backdrop, <b>The Matrix</b> is the definitive hybrid of technical wizardry and contextual&nbsp;...",
+            "formattedUrl": "https://www.imdb.com/title/tt0133093/reviews/",
+            "htmlFormattedUrl": "https://www.imdb.com/title/tt0133093/reviews/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuY_CZpT7VzUcDt8-0qyAYVfG5_awxNY3bmgdmhZ8ZsRamjzHp8LAJiJE&s",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.movie",
+                        "og:image:width": "1000",
+                        "twitter:title": "The Matrix (1999) - User reviews - IMDb",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "reviews",
+                        "og:site_name": "IMDb",
+                        "og:title": "The Matrix (1999) - User reviews - IMDb",
+                        "imdb:pageconst": "tt0133093",
+                        "og:image:height": "1502.857142857143",
+                        "og:description": "The Matrix (1999) - Movies, TV, Celebs, and more...",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "38",
+                        "twitter:image:alt": "The Matrix (1999) - Movies, TV, Celebs, and more...",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "The Matrix (1999) - Movies, TV, Celebs, and more...",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/title/tt0133093/reviews/",
+                        "imdb:pagetype": "title"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Matrix - Theatrical Trailer | IMDb",
+            "htmlTitle": "<b>The Matrix</b> - Theatrical Trailer | IMDb",
+            "link": "https://www.imdb.com/video/vi1032782617/",
+            "displayLink": "www.imdb.com",
+            "snippet": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "htmlSnippet": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "formattedUrl": "https://www.imdb.com/video/vi1032782617/",
+            "htmlFormattedUrl": "https://www.imdb.com/video/vi1032782617/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTstvW66-xYIG6JtGm2RtdkoMBKNrQCupHaLf15sAATDPgwezN56NrPGfgU&s",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://m.media-amazon.com/images/M/MV5BNDQ4NTRmN2ItYjgzMS00MzY3LWEwNmYtYmE2ODllZDdhNGI1XkEyXkFqcGdeQXdvbmtpbQ@@._V1_FMjpg_UX1000_.jpg",
+                        "og:type": "video.other",
+                        "og:image:width": "1000",
+                        "twitter:title": "▶️ The Matrix - Theatrical Trailer",
+                        "twitter:card": "summary_large_image",
+                        "imdb:subpagetype": "singlepage",
+                        "og:site_name": "IMDb",
+                        "og:title": "▶️ The Matrix - Theatrical Trailer",
+                        "imdb:pageconst": "vi1032782617",
+                        "og:image:height": "520.5078125",
+                        "og:description": "Watch Trailer | 2:26",
+                        "twitter:image": "https://m.media-amazon.com/images/M/MV5BNDQ4NTRmN2ItYjgzMS00MzY3LWEwNmYtYmE2ODllZDdhNGI1XkEyXkFqcGdeQXdvbmtpbQ@@._V1_FMjpg_UX1000_.jpg",
+                        "next-head-count": "39",
+                        "twitter:image:alt": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+                        "twitter:site": "@IMDb",
+                        "og:locale:alternate": "es_ES",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Watch Trailer | 2:26",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.imdb.com/video/vi1032782617/",
+                        "imdb:pagetype": "video"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://m.media-amazon.com/images/M/MV5BNDQ4NTRmN2ItYjgzMS00MzY3LWEwNmYtYmE2ODllZDdhNGI1XkEyXkFqcGdeQXdvbmtpbQ@@._V1_FMjpg_UX1000_.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
